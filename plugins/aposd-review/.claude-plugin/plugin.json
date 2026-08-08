@@ -1,0 +1,8 @@
+{
+    "name": "aposd-design-review",
+    "description": "Skills in reviewing/consulting on module design based on 'A Philosophy of Software Design'.",
+    "version": "1.0.0",
+    "author": {
+        "name": "Do Pham Ngoc"
+    }
+}

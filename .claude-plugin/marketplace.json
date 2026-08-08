@@ -1,0 +1,14 @@
+{
+  "name": "my-plugins",
+  "owner": {
+    "name": "Do Pham Ngoc",
+    "url": "https://github.com/phamngocdo"
+  },
+  "plugins": [
+    {
+      "name": "aposd-review",
+      "source": "./plugins/aposd-review",
+      "description": "Skills in reviewing/consulting on module design based on 'A Philosophy of Software Design'."
+    }
+  ]
+}
