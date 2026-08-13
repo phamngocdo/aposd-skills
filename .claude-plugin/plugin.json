@@ -1,0 +1,16 @@
+{
+    "name": "aposd-skills",
+    "version": "1.0.0",
+    "description": "A collection of skills for agents to perform various tasks based on book 'A Philosophy of Software Design'.",
+    "author": {
+        "name": "Do Pham Ngoc"
+    },
+    "homepage": "https://github.com/phamngocdo/aposd-skills",
+    "repository": "https://github.com/phamngocdo/aposd-skills",
+    "license": "MIT",
+    "commands": [
+        "./.claude/commands",
+        "./commands"
+    ],
+    "skills": "./skills"
+}

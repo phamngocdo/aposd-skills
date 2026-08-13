@@ -1,14 +1,20 @@
 {
-  "name": "my-plugins",
+  "name": "pnd-skills",
   "owner": {
     "name": "Do Pham Ngoc",
     "url": "https://github.com/phamngocdo"
   },
   "plugins": [
     {
-      "name": "aposd-review",
-      "source": "./plugins/aposd-review",
-      "description": "Skills in reviewing/consulting on module design based on 'A Philosophy of Software Design'."
+      "name": "aposd-skills",
+      "version": "1.0.0",
+      "source": {
+        "source": "github",
+        "repo": "phamngocdo/aposd-skills"
+      },
+      "description": "A collection of skills for agents to perform various tasks based on book 'A Philosophy of Software Design'.",
+      "homepage": "https://github.com/phamngocdo/aposd-skills",
+      "license": "MIT"
     }
   ]
 }
