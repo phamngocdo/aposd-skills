@@ -1,2 +1,3 @@
-# software-design-skills
-Skills for claude code, based on book "A philosophy of software design - John Ousterhout"
+# aposd-skills
+
+Skills for Claude Code, based on the book *A Philosophy of Software Design* by John Ousterhout.
