@@ -30,6 +30,4 @@ python3 -m json.tool plugins/aposd-review/.claude-plugin/plugin.json
 ```
 
 ## Conventions
-
-- Docs and the book notes are in **Vietnamese**; keep new skill content consistent with that unless asked otherwise.
 - Match the Ousterhout framework (deep modules, interfaces, complexity) already established in `book-note.md`.

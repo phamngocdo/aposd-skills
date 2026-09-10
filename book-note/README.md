@@ -1,4 +1,4 @@
-# Note from book 'Aphilosophy of software design"
+# Note from book 'A philosophy of software design - John Ousterhout" 
  
 ---
 ## Table of contents
@@ -7,9 +7,19 @@
 - [3. Module Design](./chapter-3.md)
 - [4. Information Hiding](./chapter-4.md)
 - [5. General-Purpose Modules are Deeper](./chapter-5.md)
-- [6. Different Layer, Different Abstraction ](./chapter-6.md)
+- [6. Different Layer, Different Abstraction](./chapter-6.md)
 - [7. Pull Complexity Downwards](./chapter-7.md)
-
+- [8. Better Together Or Better Apart?](./chapter-8.md)
+- [9. Define Errors Out Of Existence](./chapter-9.md)
+- [10. Design it twice](./chapter-10.md)
+- [11. Why Write Comments? The Four Excuses](./chapter-11.md)
+- [12. Comments Should Describe Things that Aren’t Obvious from the Code](./chapter-12.md)
+- [13. Choosing Names](./chapter-13.md)
+- [14. Write The Comments First](./chapter-14.md)
+- [15. Modifying Existing Code](./chapter-15.md)
+- [16. Consistency](./chapter-16.md)
+- [17. Code Should be Obvious](./chapter-17.md)
+- [18. Designing for Performace](./chapter-18.md)
 ---
 
 ## Summary of Design Principles
@@ -31,8 +41,6 @@
 
 ---
 ## Summary of Red Flags
-
-Here are a few of of the most important red flags discussed in this book. The presence of any of these symptoms in a system suggests that there is a problem with the system’s design:
 1. **Shallow Module**: the interface for a class or method isn’t much simpler than its implementation.
 2. **Information Leakage**: a design decision is reflected in multiple modules.
 3. **Temporal Decomposition**: the code structure is based on the order in which operations are executed, not on information hiding.
